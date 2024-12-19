@@ -57,7 +57,7 @@ describe('Place Order - Login before Checkout', () => {
       // Verify success message 'Your order has been placed successfully!'
       cy.get('.col-sm-9').should('contain', 'Congratulations! Your order has been confirmed!'); //Congratulations! Your order has been confirmed!-იწერება
     });
-  });
+  })
   
 
 

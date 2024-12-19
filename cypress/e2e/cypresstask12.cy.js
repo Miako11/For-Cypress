@@ -40,5 +40,5 @@ describe('Add Products in Cart', () => {
 
       });
     });
-  });
+  })
   
